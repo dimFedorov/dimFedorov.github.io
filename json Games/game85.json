@@ -1,0 +1,97 @@
+{
+    "id": 85,
+    "name": "Доктор Хаус. Кубок 15. (Лайт)",
+    "type": "lite",
+    "teams": [
+        {
+            "name": "Night Wolfs & Saloedu",
+            "id": "178",
+            "place": 1,
+            "time": "03:02:27"
+        },
+        {
+            "name": "Crank",
+            "id": "237",
+            "place": 2,
+            "time": "03:18:39"
+        },
+        {
+            "name": "DIESEL",
+            "id": "2",
+            "place": 3,
+            "time": "03:25:13"
+        },
+        {
+            "name": "BadBoys",
+            "id": "80",
+            "place": 4,
+            "time": "03:29:00"
+        },
+        {
+            "name": "Не пеСЦЫ ф кАмпот",
+            "id": "21",
+            "place": 5,
+            "time": "03:33:35"
+        },
+        {
+            "name": "СТРИЖ",
+            "id": "200",
+            "place": 6,
+            "time": "03:49:38"
+        },
+        {
+            "name": "Пилигримы",
+            "id": "119",
+            "place": 7,
+            "time": "04:03:50"
+        },
+        {
+            "name": "TT",
+            "id": "240",
+            "place": 8,
+            "time": "04:05:55"
+        },
+        {
+            "name": "CrazyLife",
+            "id": "79",
+            "place": 9,
+            "time": "04:09:40"
+        },
+        {
+            "name": "cTaPuKu",
+            "id": "244",
+            "place": 10,
+            "time": "04:14:50"
+        },
+        {
+            "name": "DegroidS",
+            "id": "40",
+            "place": 11,
+            "time": "04:26:38"
+        },
+        {
+            "name": "SkajenyjSens",
+            "id": "89",
+            "place": 12,
+            "time": "04:37:09"
+        },
+        {
+            "name": "ЧуМоВ@я КоПейк@",
+            "id": "204",
+            "place": 13,
+            "time": "04:38:33"
+        },
+        {
+            "name": "Адреналин",
+            "id": "127",
+            "place": 14,
+            "time": "04:43:37"
+        },
+        {
+            "name": "Chocolate",
+            "id": "140",
+            "place": 15,
+            "time": "05:15:28"
+        }
+    ]
+}

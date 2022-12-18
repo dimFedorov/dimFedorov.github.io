@@ -1,0 +1,205 @@
+{
+    "id": 68,
+    "name": "Трасса 60 (Лайт)",
+    "type": "lite",
+    "teams": [
+        {
+            "name": "мину$",
+            "id": "26",
+            "place": 1,
+            "time": "03:18:19"
+        },
+        {
+            "name": "BadBoys",
+            "id": "80",
+            "place": 2,
+            "time": "03:20:18"
+        },
+        {
+            "name": "Не пеСЦЫ ф кАмпот",
+            "id": "21",
+            "place": 3,
+            "time": "03:42:20"
+        },
+        {
+            "name": "TT",
+            "id": "240",
+            "place": 4,
+            "time": "03:47:12"
+        },
+        {
+            "name": "DIESEL",
+            "id": "2",
+            "place": 5,
+            "time": "03:55:03"
+        },
+        {
+            "name": "jimomo",
+            "id": "144",
+            "place": 6,
+            "time": "03:57:43"
+        },
+        {
+            "name": "Бабкен и Друзья",
+            "id": "7",
+            "place": 7,
+            "time": "03:59:46"
+        },
+        {
+            "name": "Night Wolfs & Saloedu",
+            "id": "178",
+            "place": 8,
+            "time": "04:18:44"
+        },
+        {
+            "name": "СТРИЖ",
+            "id": "200",
+            "place": 9,
+            "time": "04:19:55"
+        },
+        {
+            "name": "Crank",
+            "id": "237",
+            "place": 10,
+            "time": "04:22:33"
+        },
+        {
+            "name": "DegroidS",
+            "id": "40",
+            "place": 11,
+            "time": "04:27:13"
+        },
+        {
+            "name": "Stare Misto",
+            "id": "211",
+            "place": 12,
+            "time": "04:27:42"
+        },
+        {
+            "name": "CrazyLife",
+            "id": "79",
+            "place": 13,
+            "time": "04:29:01"
+        },
+        {
+            "name": "DTM",
+            "id": "204",
+            "place": 14,
+            "time": "04:30:05"
+        },
+        {
+            "name": "Служба Розыска КОтяД",
+            "id": "82",
+            "place": 15,
+            "time": "04:31:31"
+        },
+        {
+            "name": "passatь",
+            "id": "121",
+            "place": 16,
+            "time": "04:32:02"
+        },
+        {
+            "name": "Пилигримы",
+            "id": "119",
+            "place": 17,
+            "time": "04:34:12"
+        },
+        {
+            "name": "SkajenyjSens",
+            "id": "89",
+            "place": 18,
+            "time": "04:35:43"
+        },
+        {
+            "name": "CROPP_town",
+            "id": "139",
+            "place": 19,
+            "time": "04:36:22"
+        },
+        {
+            "name": "RaDistЫ",
+            "id": "243",
+            "place": 20,
+            "time": "04:36:31"
+        },
+        {
+            "name": "Gorsvet",
+            "id": "35",
+            "place": 21,
+            "time": "04:36:36"
+        },
+        {
+            "name": "Адреналин",
+            "id": "127",
+            "place": 22,
+            "time": "04:52:41"
+        },
+        {
+            "name": "FightClub",
+            "id": "114",
+            "place": 23,
+            "time": "04:55:57"
+        },
+        {
+            "name": "Royal Flush",
+            "id": "220",
+            "place": 24,
+            "time": "04:57:15"
+        },
+        {
+            "name": "Skoda",
+            "id": "236",
+            "place": 25,
+            "time": "05:00:26"
+        },
+        {
+            "name": "StopNarkotik",
+            "id": "125",
+            "place": 26,
+            "time": "05:01:02"
+        },
+        {
+            "name": "Yaho-o-o!",
+            "id": "61",
+            "place": 27,
+            "time": "05:05:58"
+        },
+        {
+            "name": "ВАЗівська 8-ка",
+            "id": "181",
+            "place": 28,
+            "time": "05:41:26"
+        },
+        {
+            "name": "_FTWO",
+            "id": "195",
+            "place": 29,
+            "time": "06:00:16"
+        },
+        {
+            "name": "NAkobileNE_TUPIM",
+            "id": "99",
+            "place": 30,
+            "time": "06:12:15"
+        },
+        {
+            "name": "КАлина",
+            "id": "116",
+            "place": 31,
+            "time": "06:14:42"
+        },
+        {
+            "name": "КВЕСТ",
+            "id": "219",
+            "place": 32,
+            "time": "06:42:53"
+        },
+        {
+            "name": "Cool Bums",
+            "id": "242",
+            "place": 33,
+            "time": "07:47:08"
+        }
+    ]
+}

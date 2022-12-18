@@ -1,0 +1,85 @@
+{
+    "id": 121,
+    "name": "Мама, мы все тяжело больны)))))) (Vеlо DozoR) (Лайт)",
+    "type": "lite",
+    "teams": [
+        {
+            "name": "jamakasi",
+            "id": "49",
+            "place": 1,
+            "time": "01:50:35"
+        },
+        {
+            "name": "CROPP_town",
+            "id": "139",
+            "place": 2,
+            "time": "01:52:49"
+        },
+        {
+            "name": "Бабкен и Друзья",
+            "id": "7",
+            "place": 3,
+            "time": "02:33:10"
+        },
+        {
+            "name": "СоNNые ТетеRи",
+            "id": "601",
+            "place": 4,
+            "time": "03:11:34"
+        },
+        {
+            "name": "Скорость",
+            "id": "595",
+            "place": 5,
+            "time": "03:30:56"
+        },
+        {
+            "name": "nippell",
+            "id": "589",
+            "place": 6,
+            "time": "04:24:14"
+        },
+        {
+            "name": "\"Freedom\"",
+            "id": "587",
+            "place": 7,
+            "time": "04:25:08"
+        },
+        {
+            "name": "Pathfinder",
+            "id": "599",
+            "place": 8,
+            "time": "04:33:20"
+        },
+        {
+            "name": "extremeyouth",
+            "id": "591",
+            "place": 9,
+            "time": "04:45:40"
+        },
+        {
+            "name": "-=pioneers=*‘^‘*-.,_,-",
+            "id": "588",
+            "place": 10,
+            "time": "06:28:48"
+        },
+        {
+            "name": "Sunrise",
+            "id": "602",
+            "place": 11,
+            "time": "08:51:20"
+        },
+        {
+            "name": "PaRtiZaNe",
+            "id": "593",
+            "place": 12,
+            "time": "09:13:58"
+        },
+        {
+            "name": "Визитёры",
+            "id": "604",
+            "place": 13,
+            "time": "10:20:24"
+        }
+    ]
+}

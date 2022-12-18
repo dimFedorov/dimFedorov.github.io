@@ -1,0 +1,133 @@
+{
+    "id": 102,
+    "name": "Сокровище нации (Лайт)",
+    "type": "lite",
+    "teams": [
+        {
+            "name": "< no name >",
+            "id": "265",
+            "place": 1,
+            "time": "03:25:35"
+        },
+        {
+            "name": "BadBoys",
+            "id": "80",
+            "place": 2,
+            "time": "03:37:33"
+        },
+        {
+            "name": "DegroidS",
+            "id": "40",
+            "place": 3,
+            "time": "03:38:13"
+        },
+        {
+            "name": "Chocolate",
+            "id": "140",
+            "place": 4,
+            "time": "03:39:48"
+        },
+        {
+            "name": "DIESEL",
+            "id": "2",
+            "place": 5,
+            "time": "03:43:49"
+        },
+        {
+            "name": "Не пеСЦЫ ф кАмпот",
+            "id": "21",
+            "place": 6,
+            "time": "03:47:04"
+        },
+        {
+            "name": "CrazyLife",
+            "id": "79",
+            "place": 7,
+            "time": "03:54:32"
+        },
+        {
+            "name": "bad+mad",
+            "id": "275",
+            "place": 8,
+            "time": "04:25:42"
+        },
+        {
+            "name": "SkajenyjSens",
+            "id": "89",
+            "place": 9,
+            "time": "04:37:51"
+        },
+        {
+            "name": "CROPP_town",
+            "id": "139",
+            "place": 10,
+            "time": "04:56:09"
+        },
+        {
+            "name": "Funky monkey",
+            "id": "292",
+            "place": 11,
+            "time": "05:00:32"
+        },
+        {
+            "name": "СТРИЖ",
+            "id": "200",
+            "place": 12,
+            "time": "05:04:52"
+        },
+        {
+            "name": "TT",
+            "id": "240",
+            "place": 13,
+            "time": "05:11:56"
+        },
+        {
+            "name": "ТОЧИ  КАНТЫ",
+            "id": "282",
+            "place": 14,
+            "time": "05:29:26"
+        },
+        {
+            "name": "Cowboy HuggieS",
+            "id": "289",
+            "place": 15,
+            "time": "05:38:41"
+        },
+        {
+            "name": "КОМАНДА",
+            "id": "204",
+            "place": 16,
+            "time": "06:34:22"
+        },
+        {
+            "name": "Бабкен и Друзья",
+            "id": "7",
+            "place": 17,
+            "time": "06:51:39"
+        },
+        {
+            "name": "Gorsvet",
+            "id": "35",
+            "place": 18,
+            "time": "07:04:57"
+        },
+        {
+            "name": "cx7",
+            "id": "328",
+            "place": 19,
+            "time": "04:45:31"
+        },
+        {
+            "name": "МОЛЧАНИЕ ЯГНЯТ",
+            "id": "325",
+            "place": 20,
+            "time": "06:46:19"
+        },
+        {
+            "name": "DemoNы",
+            "id": "326",
+            "place": 21,
+            "time": "08:40:41"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "id": 1,
+    "name": "ПРИШЕСТВИЕ (Лайт)",
+    "type": "lite",
+    "teams": [
+        {
+            "name": "PRADA",
+            "id": "9",
+            "place": 1,
+            "time": "01:30:13"
+        },
+        {
+            "name": "DIESEL",
+            "id": "2",
+            "place": 2,
+            "time": "01:37:52"
+        },
+        {
+            "name": "Babken&Friends",
+            "id": "7",
+            "place": 3,
+            "time": "01:44:29"
+        },
+        {
+            "name": "Bronirovanue",
+            "id": "19",
+            "place": 4,
+            "time": "02:23:20"
+        },
+        {
+            "name": "Voodoo people",
+            "id": "5",
+            "place": 5,
+            "time": "02:25:28"
+        },
+        {
+            "name": "CocktailMolotova",
+            "id": "12",
+            "place": 6,
+            "time": "02:41:33"
+        },
+        {
+            "name": "Forever",
+            "id": "20",
+            "place": 7,
+            "time": "02:48:06"
+        },
+        {
+            "name": "Скажені КабанчеГи",
+            "id": "4",
+            "place": 8,
+            "time": "02:52:52"
+        },
+        {
+            "name": "Fortuna",
+            "id": "17",
+            "place": 9,
+            "time": "03:02:48"
+        },
+        {
+            "name": "Любители Пива",
+            "id": "13",
+            "place": 10,
+            "time": "03:21:36"
+        },
+        {
+            "name": "Linet",
+            "id": "21",
+            "place": 11,
+            "time": "03:32:38"
+        },
+        {
+            "name": "ushlepki",
+            "id": "18",
+            "place": 12,
+            "time": "03:45:35"
+        },
+        {
+            "name": "CHUFUT",
+            "id": "6",
+            "place": 13,
+            "time": "04:03:59"
+        },
+        {
+            "name": "Alkashi",
+            "id": "22",
+            "place": 14,
+            "time": "07:39:18"
+        }
+    ]
+}

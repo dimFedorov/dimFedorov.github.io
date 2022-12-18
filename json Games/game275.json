@@ -1,0 +1,103 @@
+{
+    "id": 275,
+    "name": "Бегущая белка (Лайт)",
+    "type": "lite",
+    "teams": [
+        {
+            "name": "CraZy Bee",
+            "id": "760",
+            "place": 1,
+            "time": "02:31:54"
+        },
+        {
+            "name": "CROPP_town",
+            "id": "139",
+            "place": 2,
+            "time": "02:36:07"
+        },
+        {
+            "name": "DIESEL",
+            "id": "2",
+            "place": 3,
+            "time": "02:42:46"
+        },
+        {
+            "name": "Ночной КОШМАР",
+            "id": "664",
+            "place": 4,
+            "time": "02:56:10"
+        },
+        {
+            "name": "Черный Чай Зеленый Зай",
+            "id": "580",
+            "place": 5,
+            "time": "03:32:11"
+        },
+        {
+            "name": "Mafia",
+            "id": "720",
+            "place": 6,
+            "time": "03:42:41"
+        },
+        {
+            "name": "Кто ZDесь?",
+            "id": "751",
+            "place": 7,
+            "time": "03:43:57"
+        },
+        {
+            "name": "Boeing777",
+            "id": "756",
+            "place": 8,
+            "time": "04:01:41"
+        },
+        {
+            "name": "[email protected]",
+            "id": "647",
+            "place": 9,
+            "time": "05:07:05"
+        },
+        {
+            "name": "Сахар",
+            "id": "757",
+            "place": 10,
+            "time": "05:29:31"
+        },
+        {
+            "name": "Hoochie_Coochie",
+            "id": "710",
+            "place": 11,
+            "time": "05:47:31"
+        },
+        {
+            "name": "Cassiopeia",
+            "id": "748",
+            "place": 12,
+            "time": "06:36:45"
+        },
+        {
+            "name": "STREET ENERGY",
+            "id": "755",
+            "place": 13,
+            "time": "07:13:01"
+        },
+        {
+            "name": "Турбо равлики",
+            "id": "196",
+            "place": 14,
+            "time": "07:13:38"
+        },
+        {
+            "name": "Lexus GX",
+            "id": "761",
+            "place": 15,
+            "time": "07:56:37"
+        },
+        {
+            "name": "мину$",
+            "id": "26",
+            "place": 16,
+            "time": "08:40:00"
+        }
+    ]
+}

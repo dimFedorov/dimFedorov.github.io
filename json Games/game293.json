@@ -1,0 +1,61 @@
+{
+    "id": 293,
+    "name": "The Simpsons (Жесть)",
+    "type": "hard",
+    "teams": [
+        {
+            "name": "Пчёлка",
+            "id": "712",
+            "place": 1,
+            "time": "02:52:17"
+        },
+        {
+            "name": "Friends",
+            "id": "336",
+            "place": 2,
+            "time": "02:52:36"
+        },
+        {
+            "name": "Черный Чай Зеленый Зай",
+            "id": "580",
+            "place": 3,
+            "time": "03:17:54"
+        },
+        {
+            "name": "CROPP_town",
+            "id": "139",
+            "place": 4,
+            "time": "03:52:44"
+        },
+        {
+            "name": "Mafia",
+            "id": "720",
+            "place": 5,
+            "time": "03:53:02"
+        },
+        {
+            "name": "3DM",
+            "id": "770",
+            "place": 6,
+            "time": "05:37:28"
+        },
+        {
+            "name": "Cassiopeia",
+            "id": "748",
+            "place": 7,
+            "time": "05:52:15"
+        },
+        {
+            "name": "911",
+            "id": "772",
+            "place": 8,
+            "time": "06:42:51"
+        },
+        {
+            "name": "5S",
+            "id": "726",
+            "place": 9,
+            "time": "06:52:27"
+        }
+    ]
+}

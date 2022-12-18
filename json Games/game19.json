@@ -1,0 +1,193 @@
+{
+    "id": 19,
+    "name": "Бабкен собирает друзей (Лига Тёмных)   (Лайт)",
+    "type": "lite",
+    "teams": [
+        {
+            "name": "Не пеСЦЫ ф кАмпот",
+            "id": "21",
+            "place": 1,
+            "time": "02:25:11"
+        },
+        {
+            "name": "Служба Розыска КОтяД",
+            "id": "82",
+            "place": 2,
+            "time": "02:35:25"
+        },
+        {
+            "name": "GOPSTOP",
+            "id": "110",
+            "place": 3,
+            "time": "02:50:35"
+        },
+        {
+            "name": "DIESEL",
+            "id": "2",
+            "place": 4,
+            "time": "02:55:13"
+        },
+        {
+            "name": "jamakasi",
+            "id": "49",
+            "place": 5,
+            "time": "03:04:46"
+        },
+        {
+            "name": "PRADA",
+            "id": "9",
+            "place": 6,
+            "time": "03:07:29"
+        },
+        {
+            "name": "™ГаРа}I{ні моНстРи™",
+            "id": "102",
+            "place": 7,
+            "time": "03:11:16"
+        },
+        {
+            "name": "Voodoo people",
+            "id": "5",
+            "place": 8,
+            "time": "03:16:47"
+        },
+        {
+            "name": "МамаЭтоЯ",
+            "id": "120",
+            "place": 9,
+            "time": "03:22:38"
+        },
+        {
+            "name": "Адреналин",
+            "id": "127",
+            "place": 10,
+            "time": "03:24:24"
+        },
+        {
+            "name": "passatь",
+            "id": "121",
+            "place": 11,
+            "time": "03:36:32"
+        },
+        {
+            "name": "FightClub",
+            "id": "114",
+            "place": 12,
+            "time": "03:37:42"
+        },
+        {
+            "name": "[Іzbywatina]",
+            "id": "72",
+            "place": 13,
+            "time": "03:37:51"
+        },
+        {
+            "name": "DegroidS",
+            "id": "40",
+            "place": 14,
+            "time": "03:45:22"
+        },
+        {
+            "name": "Livescore",
+            "id": "91",
+            "place": 15,
+            "time": "03:45:52"
+        },
+        {
+            "name": "Demergi intelligence",
+            "id": "103",
+            "place": 16,
+            "time": "03:46:22"
+        },
+        {
+            "name": "kosmonavtbI",
+            "id": "97",
+            "place": 17,
+            "time": "03:47:03"
+        },
+        {
+            "name": "CrazyLife",
+            "id": "79",
+            "place": 18,
+            "time": "03:50:30"
+        },
+        {
+            "name": "Yaho-o-o!",
+            "id": "61",
+            "place": 19,
+            "time": "03:58:27"
+        },
+        {
+            "name": "мину$",
+            "id": "26",
+            "place": 20,
+            "time": "04:04:37"
+        },
+        {
+            "name": "MoRa @",
+            "id": "93",
+            "place": 21,
+            "time": "04:06:30"
+        },
+        {
+            "name": "AMG",
+            "id": "129",
+            "place": 22,
+            "time": "04:21:39"
+        },
+        {
+            "name": "CHUFUT",
+            "id": "6",
+            "place": 23,
+            "time": "04:23:17"
+        },
+        {
+            "name": "Nignt Rabbits",
+            "id": "124",
+            "place": 24,
+            "time": "04:24:01"
+        },
+        {
+            "name": "Gorsvet",
+            "id": "35",
+            "place": 25,
+            "time": "04:26:43"
+        },
+        {
+            "name": "SaloEdy",
+            "id": "30",
+            "place": 26,
+            "time": "04:32:23"
+        },
+        {
+            "name": "Реальные Кабаны",
+            "id": "107",
+            "place": 27,
+            "time": "04:36:41"
+        },
+        {
+            "name": "спИРТ-ТВ",
+            "id": "86",
+            "place": 28,
+            "time": "04:52:34"
+        },
+        {
+            "name": "Man in Black",
+            "id": "117",
+            "place": 29,
+            "time": "05:03:03"
+        },
+        {
+            "name": "Spies",
+            "id": "128",
+            "place": 30,
+            "time": "05:09:02"
+        },
+        {
+            "name": "SkajenyjSens",
+            "id": "89",
+            "place": 31,
+            "time": "05:09:30"
+        }
+    ]
+}

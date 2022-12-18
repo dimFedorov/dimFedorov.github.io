@@ -1,0 +1,151 @@
+{
+    "id": 7,
+    "name": "Властелин Колец. Башни. (Лайт)",
+    "type": "lite",
+    "teams": [
+        {
+            "name": "Voodoo people",
+            "id": "5",
+            "place": 1,
+            "time": "02:41:26"
+        },
+        {
+            "name": "Robotroniki",
+            "id": "52",
+            "place": 2,
+            "time": "03:02:40"
+        },
+        {
+            "name": "мину$",
+            "id": "26",
+            "place": 3,
+            "time": "03:06:00"
+        },
+        {
+            "name": "Не пеСЦЫ ф кАмпот",
+            "id": "21",
+            "place": 4,
+            "time": "03:06:00"
+        },
+        {
+            "name": "Crazy Pepelaz",
+            "id": "54",
+            "place": 5,
+            "time": "03:08:30"
+        },
+        {
+            "name": "CHUFUT",
+            "id": "6",
+            "place": 6,
+            "time": "03:11:27"
+        },
+        {
+            "name": "Ангелы Чарли",
+            "id": "44",
+            "place": 7,
+            "time": "03:12:01"
+        },
+        {
+            "name": "CocktailMolotova",
+            "id": "12",
+            "place": 8,
+            "time": "03:19:48"
+        },
+        {
+            "name": "PRADA",
+            "id": "9",
+            "place": 9,
+            "time": "03:24:38"
+        },
+        {
+            "name": "Ночной патруль",
+            "id": "64",
+            "place": 10,
+            "time": "03:33:40"
+        },
+        {
+            "name": "Бабкен и Друзья",
+            "id": "7",
+            "place": 11,
+            "time": "03:39:10"
+        },
+        {
+            "name": "SaloEdy",
+            "id": "30",
+            "place": 12,
+            "time": "04:07:59"
+        },
+        {
+            "name": "SilverBullet",
+            "id": "48",
+            "place": 13,
+            "time": "04:10:29"
+        },
+        {
+            "name": "[Іzbywatina]",
+            "id": "72",
+            "place": 14,
+            "time": "04:16:30"
+        },
+        {
+            "name": "Alkashi",
+            "id": "22",
+            "place": 15,
+            "time": "04:18:35"
+        },
+        {
+            "name": "DIESEL",
+            "id": "2",
+            "place": 16,
+            "time": "04:45:13"
+        },
+        {
+            "name": "HR",
+            "id": "78",
+            "place": 17,
+            "time": "04:47:14"
+        },
+        {
+            "name": "DegroidS",
+            "id": "40",
+            "place": 18,
+            "time": "04:56:52"
+        },
+        {
+            "name": "Gorsvet",
+            "id": "35",
+            "place": 19,
+            "time": "05:10:53"
+        },
+        {
+            "name": "CrazyLife",
+            "id": "79",
+            "place": 20,
+            "time": "06:06:29"
+        },
+        {
+            "name": "Pioneri",
+            "id": "56",
+            "place": 21,
+            "time": "06:44:36"
+        },
+        {
+            "name": "Yaho-o-o!",
+            "id": "61",
+            "place": 22,
+            "time": "07:17:53"
+        },
+        {
+            "name": "BugenGagen",
+            "id": "74",
+            "place": 23,
+            "time": "07:23:52"
+        },
+        {
+            "name": "ДРЕЗИНА упертая",
+            "id": "75",
+            "place": 24,
+            "time": "07:53:45"
+        }
+    ]
+}

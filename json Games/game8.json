@@ -1,0 +1,193 @@
+{
+    "id": 8,
+    "name": "Индийская история. (Лайт)",
+    "type": "lite",
+    "teams": [
+        {
+            "name": "Voodoo people",
+            "id": "5",
+            "place": 1,
+            "time": "02:27:06"
+        },
+        {
+            "name": "DIESEL",
+            "id": "2",
+            "place": 2,
+            "time": "03:22:53"
+        },
+        {
+            "name": "Pioneri",
+            "id": "56",
+            "place": 3,
+            "time": "03:24:08"
+        },
+        {
+            "name": "Robotroniki",
+            "id": "52",
+            "place": 4,
+            "time": "03:34:01"
+        },
+        {
+            "name": "мину$",
+            "id": "26",
+            "place": 5,
+            "time": "03:44:22"
+        },
+        {
+            "name": "CHUFUT",
+            "id": "6",
+            "place": 6,
+            "time": "03:45:13"
+        },
+        {
+            "name": "SaloEdy",
+            "id": "30",
+            "place": 7,
+            "time": "03:52:13"
+        },
+        {
+            "name": "ФАРТ",
+            "id": "46",
+            "place": 8,
+            "time": "03:52:48"
+        },
+        {
+            "name": "DegroidS",
+            "id": "40",
+            "place": 9,
+            "time": "03:57:29"
+        },
+        {
+            "name": "BugenGagen",
+            "id": "74",
+            "place": 10,
+            "time": "04:06:01"
+        },
+        {
+            "name": "SilverBullet",
+            "id": "48",
+            "place": 11,
+            "time": "04:10:54"
+        },
+        {
+            "name": "Night Wolfs",
+            "id": "84",
+            "place": 12,
+            "time": "04:11:41"
+        },
+        {
+            "name": "Не пеСЦЫ ф кАмпот",
+            "id": "21",
+            "place": 13,
+            "time": "04:11:59"
+        },
+        {
+            "name": "спИРТ-ТВ",
+            "id": "86",
+            "place": 14,
+            "time": "04:15:57"
+        },
+        {
+            "name": "Ангелы Чарли",
+            "id": "44",
+            "place": 15,
+            "time": "04:20:41"
+        },
+        {
+            "name": "Ночной патруль",
+            "id": "64",
+            "place": 16,
+            "time": "04:21:40"
+        },
+        {
+            "name": "Gorsvet",
+            "id": "35",
+            "place": 17,
+            "time": "04:25:38"
+        },
+        {
+            "name": "Бабкен и Друзья",
+            "id": "7",
+            "place": 18,
+            "time": "04:35:37"
+        },
+        {
+            "name": "PRADA",
+            "id": "9",
+            "place": 19,
+            "time": "04:35:49"
+        },
+        {
+            "name": "BadBoys",
+            "id": "80",
+            "place": 20,
+            "time": "04:42:09"
+        },
+        {
+            "name": "GotNoBrain",
+            "id": "81",
+            "place": 21,
+            "time": "04:47:07"
+        },
+        {
+            "name": "SkajenyjSens",
+            "id": "89",
+            "place": 22,
+            "time": "04:47:34"
+        },
+        {
+            "name": "CrazyLife",
+            "id": "79",
+            "place": 23,
+            "time": "04:47:57"
+        },
+        {
+            "name": "[Іzbywatina]",
+            "id": "72",
+            "place": 24,
+            "time": "04:49:12"
+        },
+        {
+            "name": "Kolo",
+            "id": "37",
+            "place": 25,
+            "time": "05:16:14"
+        },
+        {
+            "name": "Служба Розыска КОтяД",
+            "id": "82",
+            "place": 26,
+            "time": "05:17:43"
+        },
+        {
+            "name": "Yaho-o-o!",
+            "id": "61",
+            "place": 27,
+            "time": "05:18:52"
+        },
+        {
+            "name": "ДРЕЗИНА упертая",
+            "id": "75",
+            "place": 28,
+            "time": "05:22:56"
+        },
+        {
+            "name": "Санитарная Служба",
+            "id": "83",
+            "place": 29,
+            "time": "05:42:52"
+        },
+        {
+            "name": "}{OTTAБЬ)Ч",
+            "id": "87",
+            "place": 30,
+            "time": "05:53:07"
+        },
+        {
+            "name": "Ёжики в тумане",
+            "id": "88",
+            "place": 31,
+            "time": "06:45:06"
+        }
+    ]
+}

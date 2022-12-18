@@ -1,0 +1,193 @@
+{
+    "id": 30,
+    "name": "Звездные войны (Лайт)",
+    "type": "lite",
+    "teams": [
+        {
+            "name": "мину$",
+            "id": "26",
+            "place": 1,
+            "time": "03:43:47"
+        },
+        {
+            "name": "Адреналин",
+            "id": "127",
+            "place": 2,
+            "time": "03:53:29"
+        },
+        {
+            "name": "Не пеСЦЫ ф кАмпот",
+            "id": "21",
+            "place": 3,
+            "time": "04:00:26"
+        },
+        {
+            "name": "CHUFUT",
+            "id": "6",
+            "place": 4,
+            "time": "04:13:08"
+        },
+        {
+            "name": "DegroidS",
+            "id": "40",
+            "place": 5,
+            "time": "04:18:58"
+        },
+        {
+            "name": "Yaho-o-o!",
+            "id": "61",
+            "place": 6,
+            "time": "04:26:54"
+        },
+        {
+            "name": "CrazyLife",
+            "id": "79",
+            "place": 7,
+            "time": "04:33:48"
+        },
+        {
+            "name": "DIESEL",
+            "id": "2",
+            "place": 8,
+            "time": "04:34:31"
+        },
+        {
+            "name": "PRADA",
+            "id": "9",
+            "place": 9,
+            "time": "04:41:17"
+        },
+        {
+            "name": "Пилигримы",
+            "id": "119",
+            "place": 10,
+            "time": "04:42:25"
+        },
+        {
+            "name": "катаклизм TEAM",
+            "id": "159",
+            "place": 11,
+            "time": "04:48:06"
+        },
+        {
+            "name": "Полтавские Гангстеры",
+            "id": "147",
+            "place": 12,
+            "time": "04:57:43"
+        },
+        {
+            "name": "Бабкен и Друзья",
+            "id": "7",
+            "place": 13,
+            "time": "05:00:43"
+        },
+        {
+            "name": "Реальные Кабаны",
+            "id": "107",
+            "place": 14,
+            "time": "05:07:31"
+        },
+        {
+            "name": "Nignt Rabbits",
+            "id": "124",
+            "place": 15,
+            "time": "05:22:01"
+        },
+        {
+            "name": "GotNoBrain",
+            "id": "81",
+            "place": 16,
+            "time": "05:33:04"
+        },
+        {
+            "name": "™ГаРа}I{ні моНстРи™",
+            "id": "102",
+            "place": 17,
+            "time": "05:37:55"
+        },
+        {
+            "name": "passatь",
+            "id": "121",
+            "place": 18,
+            "time": "06:20:56"
+        },
+        {
+            "name": "SaloEdy",
+            "id": "30",
+            "place": 19,
+            "time": "06:30:18"
+        },
+        {
+            "name": "Gorsvet",
+            "id": "35",
+            "place": 20,
+            "time": "06:33:42"
+        },
+        {
+            "name": "Voodoo people",
+            "id": "5",
+            "place": 21,
+            "time": "06:41:16"
+        },
+        {
+            "name": "CROPP_town",
+            "id": "139",
+            "place": 22,
+            "time": "06:42:43"
+        },
+        {
+            "name": "IMPERIAL",
+            "id": "138",
+            "place": 23,
+            "time": "06:50:17"
+        },
+        {
+            "name": "Night Wolfs",
+            "id": "84",
+            "place": 24,
+            "time": "06:56:40"
+        },
+        {
+            "name": "Chocolate",
+            "id": "140",
+            "place": 25,
+            "time": "06:59:40"
+        },
+        {
+            "name": "[email protected]",
+            "id": "161",
+            "place": 26,
+            "time": "07:00:09"
+        },
+        {
+            "name": "Spies",
+            "id": "128",
+            "place": 27,
+            "time": "07:26:11"
+        },
+        {
+            "name": "Служба Розыска КОтяД",
+            "id": "82",
+            "place": 28,
+            "time": "07:49:11"
+        },
+        {
+            "name": "BadBoys",
+            "id": "80",
+            "place": 29,
+            "time": "07:52:16"
+        },
+        {
+            "name": "jimomo",
+            "id": "144",
+            "place": 30,
+            "time": "07:54:08"
+        },
+        {
+            "name": "Demergi intelligence",
+            "id": "103",
+            "place": 31,
+            "time": "09:00:51"
+        }
+    ]
+}

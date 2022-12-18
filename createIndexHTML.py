@@ -28,34 +28,12 @@ def convertDzrDate(s) :
 
 games = []
 
-hostDir = os.getcwd()
-for gameFolder in os.walk(hostDir):
-
-    if -1 == gameFolder[0].find('game') :
-        continue;
+with open("games.json", encoding='utf-8') as outfile:
+    jsonGames = json.load( outfile )
     
-    for fileName in gameFolder[2]:
-        
-        if -1 == fileName.find('game') :
-            continue;
-            
-        with open( os.path.join(hostDir, gameFolder[0],fileName),encoding='utf-8' ) as file:
 
-            soup = BeautifulSoup(file, "html.parser")
-            gameid = int(fileName.strip('game').split('.')[0])
-            game_Name = stripDzr(soup.find('h1',{'id':'game-Title'}).text)
-            game_Name = game_Name.replace('«','').replace('»','')
-            game_date = convertDzrDate(soup.find('div',{'id':'date'}).text)
-            game = {
-                'name' : game_Name,
-                'id': gameid,
-                'link' : './game' + str(gameid) + '/' + fileName,
-                'date' : game_date
-                }
-            games.append(game)
-            
-
-json_object = json.dumps(games,ensure_ascii=False).encode('utf-8')
-
-with open("games.json", "w", encoding='utf-8') as outfile:
-    outfile.write(json_object.decode())
+    
+with open("seasons.json", encoding='utf-8') as outfile:
+    jsonSeasons = json.load( outfile )
+    
+    print( jsonSeasons )

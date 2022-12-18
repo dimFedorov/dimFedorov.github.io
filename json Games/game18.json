@@ -1,0 +1,223 @@
+{
+    "id": 18,
+    "name": "Призрак Дачника (Лайт)",
+    "type": "lite",
+    "teams": [
+        {
+            "name": "DIESEL",
+            "id": "2",
+            "place": 1,
+            "time": "01:30:11"
+        },
+        {
+            "name": "DegroidS",
+            "id": "40",
+            "place": 2,
+            "time": "01:53:44"
+        },
+        {
+            "name": "Бабкен и Друзья",
+            "id": "7",
+            "place": 3,
+            "time": "01:54:25"
+        },
+        {
+            "name": "GOPSTOP",
+            "id": "110",
+            "place": 4,
+            "time": "01:58:18"
+        },
+        {
+            "name": "Voodoo people",
+            "id": "5",
+            "place": 5,
+            "time": "02:07:14"
+        },
+        {
+            "name": "}{OTTAБЬ)Ч",
+            "id": "87",
+            "place": 6,
+            "time": "02:09:26"
+        },
+        {
+            "name": "Не пеСЦЫ ф кАмпот",
+            "id": "21",
+            "place": 7,
+            "time": "02:12:28"
+        },
+        {
+            "name": "jamakasi",
+            "id": "49",
+            "place": 8,
+            "time": "02:17:02"
+        },
+        {
+            "name": "passatь",
+            "id": "121",
+            "place": 9,
+            "time": "02:18:28"
+        },
+        {
+            "name": "мину$",
+            "id": "26",
+            "place": 10,
+            "time": "02:20:08"
+        },
+        {
+            "name": "Gorsvet",
+            "id": "35",
+            "place": 11,
+            "time": "02:21:05"
+        },
+        {
+            "name": "CrazyLife",
+            "id": "79",
+            "place": 12,
+            "time": "02:25:08"
+        },
+        {
+            "name": "™ГаРа}I{ні моНстРи™",
+            "id": "102",
+            "place": 13,
+            "time": "02:25:32"
+        },
+        {
+            "name": "Yaho-o-o!",
+            "id": "61",
+            "place": 14,
+            "time": "02:26:44"
+        },
+        {
+            "name": "Night Wolfs",
+            "id": "84",
+            "place": 15,
+            "time": "02:26:50"
+        },
+        {
+            "name": "Ангелы Чарли",
+            "id": "44",
+            "place": 16,
+            "time": "02:28:27"
+        },
+        {
+            "name": "ФАРТ",
+            "id": "46",
+            "place": 17,
+            "time": "02:30:39"
+        },
+        {
+            "name": "Ночной патруль",
+            "id": "64",
+            "place": 18,
+            "time": "02:35:16"
+        },
+        {
+            "name": "ПеППеRS",
+            "id": "85",
+            "place": 19,
+            "time": "02:39:29"
+        },
+        {
+            "name": "BadBoys",
+            "id": "80",
+            "place": 20,
+            "time": "02:44:17"
+        },
+        {
+            "name": "Пилигримы",
+            "id": "119",
+            "place": 21,
+            "time": "02:53:17"
+        },
+        {
+            "name": "Служба Розыска КОтяД",
+            "id": "82",
+            "place": 22,
+            "time": "02:53:42"
+        },
+        {
+            "name": "StopNarkotik",
+            "id": "125",
+            "place": 23,
+            "time": "02:56:58"
+        },
+        {
+            "name": "Реальные Кабаны",
+            "id": "107",
+            "place": 24,
+            "time": "03:04:47"
+        },
+        {
+            "name": "Livescore",
+            "id": "91",
+            "place": 25,
+            "time": "03:09:44"
+        },
+        {
+            "name": "Пипелацы",
+            "id": "115",
+            "place": 26,
+            "time": "03:19:52"
+        },
+        {
+            "name": "Ёжики в тумане",
+            "id": "88",
+            "place": 27,
+            "time": "03:27:34"
+        },
+        {
+            "name": "Demergi intelligence",
+            "id": "103",
+            "place": 28,
+            "time": "03:30:46"
+        },
+        {
+            "name": "kosmonavtbI",
+            "id": "97",
+            "place": 29,
+            "time": "03:51:07"
+        },
+        {
+            "name": "Томб RайдerZZ",
+            "id": "106",
+            "place": 30,
+            "time": "03:55:00"
+        },
+        {
+            "name": "SaloEdy",
+            "id": "30",
+            "place": 31,
+            "time": "03:55:30"
+        },
+        {
+            "name": "Nignt Rabbits",
+            "id": "124",
+            "place": 32,
+            "time": "04:24:29"
+        },
+        {
+            "name": "SkajenyjSens",
+            "id": "89",
+            "place": 33,
+            "time": "04:47:54"
+        },
+        {
+            "name": "Man in Black",
+            "id": "117",
+            "place": 34,
+            "time": "04:48:18"
+        },
+        {
+            "name": "PRADA",
+            "id": "9",
+            "place": 35,
+            "time": "05:14:56"
+        },
+        {
+            "name": "FightClub",
+            "id": "114",
+            "place": 36,
+            "time": "06:37:01"
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "id": 27,
+    "name": "Дело о полосатом слоне (Лига Тёмных) (Лайт)",
+    "type": "lite",
+    "teams": [
+        {
+            "name": "Не пеСЦЫ ф кАмпот",
+            "id": "21",
+            "place": 1,
+            "time": "03:14:11"
+        },
+        {
+            "name": "DegroidS",
+            "id": "40",
+            "place": 2,
+            "time": "03:16:06"
+        },
+        {
+            "name": "CHUFUT",
+            "id": "6",
+            "place": 3,
+            "time": "03:16:15"
+        },
+        {
+            "name": "PRADA",
+            "id": "9",
+            "place": 4,
+            "time": "03:27:19"
+        },
+        {
+            "name": "CrazyLife",
+            "id": "79",
+            "place": 5,
+            "time": "03:29:52"
+        },
+        {
+            "name": "SaloEdy",
+            "id": "30",
+            "place": 6,
+            "time": "03:37:19"
+        },
+        {
+            "name": "мину$",
+            "id": "26",
+            "place": 7,
+            "time": "03:45:45"
+        },
+        {
+            "name": "Night Wolfs",
+            "id": "84",
+            "place": 8,
+            "time": "03:48:47"
+        },
+        {
+            "name": "Бабкен и Друзья",
+            "id": "7",
+            "place": 9,
+            "time": "03:48:55"
+        },
+        {
+            "name": "™ГаРа}I{ні моНстРи™",
+            "id": "102",
+            "place": 10,
+            "time": "03:49:14"
+        },
+        {
+            "name": "DIESEL",
+            "id": "2",
+            "place": 11,
+            "time": "03:54:40"
+        },
+        {
+            "name": "Voodoo people",
+            "id": "5",
+            "place": 12,
+            "time": "03:58:19"
+        },
+        {
+            "name": "Полтавские Гангстеры",
+            "id": "147",
+            "place": 13,
+            "time": "03:58:56"
+        },
+        {
+            "name": "CROPP_town",
+            "id": "139",
+            "place": 14,
+            "time": "04:08:06"
+        },
+        {
+            "name": "Пилигримы",
+            "id": "119",
+            "place": 15,
+            "time": "04:08:42"
+        },
+        {
+            "name": "BadBoys",
+            "id": "80",
+            "place": 16,
+            "time": "04:11:20"
+        },
+        {
+            "name": "passatь",
+            "id": "121",
+            "place": 17,
+            "time": "04:18:21"
+        },
+        {
+            "name": "Gorsvet",
+            "id": "35",
+            "place": 18,
+            "time": "04:20:01"
+        },
+        {
+            "name": "Yaho-o-o!",
+            "id": "61",
+            "place": 19,
+            "time": "04:20:15"
+        },
+        {
+            "name": "Реальные Кабаны",
+            "id": "107",
+            "place": 20,
+            "time": "04:21:13"
+        },
+        {
+            "name": "Адреналин",
+            "id": "127",
+            "place": 21,
+            "time": "04:24:07"
+        },
+        {
+            "name": "Night Stalkers",
+            "id": "146",
+            "place": 22,
+            "time": "04:24:49"
+        },
+        {
+            "name": "GotNoBrain",
+            "id": "81",
+            "place": 23,
+            "time": "04:34:30"
+        },
+        {
+            "name": "SkajenyjSens",
+            "id": "89",
+            "place": 24,
+            "time": "04:43:18"
+        },
+        {
+            "name": "FightClub",
+            "id": "114",
+            "place": 25,
+            "time": "04:52:28"
+        },
+        {
+            "name": "jamakasi",
+            "id": "49",
+            "place": 26,
+            "time": "04:53:20"
+        },
+        {
+            "name": "КАлина",
+            "id": "116",
+            "place": 27,
+            "time": "04:58:16"
+        },
+        {
+            "name": "Delta",
+            "id": "152",
+            "place": 28,
+            "time": "05:01:14"
+        },
+        {
+            "name": "IMPERIAL",
+            "id": "138",
+            "place": 29,
+            "time": "05:06:49"
+        },
+        {
+            "name": "StopNarkotik",
+            "id": "125",
+            "place": 30,
+            "time": "05:12:42"
+        },
+        {
+            "name": "Chocolate",
+            "id": "140",
+            "place": 31,
+            "time": "05:37:15"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": 256,
+    "name": "Мечты сбываются! (Новый эксперимент профессора Gand Zhubas-а) (Жесть)",
+    "type": "hard",
+    "teams": [
+        {
+            "name": "CROPP_town",
+            "id": "139",
+            "place": 1,
+            "time": "02:11:51"
+        },
+        {
+            "name": "мину$_ReLoaD",
+            "id": "26",
+            "place": 2,
+            "time": "02:12:22"
+        },
+        {
+            "name": "jimomo & < no name >",
+            "id": "265",
+            "place": 3,
+            "time": "02:13:17"
+        },
+        {
+            "name": "Пчёлка",
+            "id": "712",
+            "place": 4,
+            "time": "03:12:08"
+        },
+        {
+            "name": "[email protected]",
+            "id": "647",
+            "place": 5,
+            "time": "03:45:49"
+        },
+        {
+            "name": "Черный Чай Зеленый Зай",
+            "id": "580",
+            "place": 6,
+            "time": "03:54:44"
+        },
+        {
+            "name": "5S",
+            "id": "726",
+            "place": 7,
+            "time": "09:36:49"
+        },
+        {
+            "name": "Dozor.Lite Kremenchug",
+            "id": "728",
+            "place": 8,
+            "time": "05:15:20"
+        }
+    ]
+}

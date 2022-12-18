@@ -1,0 +1,61 @@
+{
+    "id": 94,
+    "name": "The Game (Лайт)",
+    "type": "lite",
+    "teams": [
+        {
+            "name": "Бабкен и Друзья",
+            "id": "7",
+            "place": 1,
+            "time": "03:39:30"
+        },
+        {
+            "name": "DIESEL",
+            "id": "2",
+            "place": 2,
+            "time": "03:45:32"
+        },
+        {
+            "name": "SkajenyjSens",
+            "id": "89",
+            "place": 3,
+            "time": "04:27:15"
+        },
+        {
+            "name": "jimomo",
+            "id": "144",
+            "place": 4,
+            "time": "04:28:19"
+        },
+        {
+            "name": "< no name >",
+            "id": "265",
+            "place": 5,
+            "time": "04:35:55"
+        },
+        {
+            "name": "СТРИЖ",
+            "id": "200",
+            "place": 6,
+            "time": "05:01:25"
+        },
+        {
+            "name": "BadBoys",
+            "id": "80",
+            "place": 7,
+            "time": "05:08:16"
+        },
+        {
+            "name": "ТОЧИ  КАНТЫ",
+            "id": "282",
+            "place": 8,
+            "time": "05:48:54"
+        },
+        {
+            "name": "CRS",
+            "id": "318",
+            "place": 9,
+            "time": "09:30:00"
+        }
+    ]
+}

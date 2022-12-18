@@ -1,0 +1,205 @@
+{
+    "id": 22,
+    "name": "Десять черных котят (лига Тёмных) (Лайт)",
+    "type": "lite",
+    "teams": [
+        {
+            "name": "PRADA",
+            "id": "9",
+            "place": 1,
+            "time": "01:56:17"
+        },
+        {
+            "name": "DIESEL",
+            "id": "2",
+            "place": 2,
+            "time": "02:00:08"
+        },
+        {
+            "name": "мину$",
+            "id": "26",
+            "place": 3,
+            "time": "02:00:35"
+        },
+        {
+            "name": "Nignt Rabbits",
+            "id": "124",
+            "place": 4,
+            "time": "02:01:11"
+        },
+        {
+            "name": "SaloEdy",
+            "id": "30",
+            "place": 5,
+            "time": "02:03:16"
+        },
+        {
+            "name": "Бабкен и Друзья",
+            "id": "7",
+            "place": 6,
+            "time": "02:04:15"
+        },
+        {
+            "name": "Реальные Кабаны",
+            "id": "107",
+            "place": 7,
+            "time": "02:05:11"
+        },
+        {
+            "name": "Gorsvet",
+            "id": "35",
+            "place": 8,
+            "time": "02:06:01"
+        },
+        {
+            "name": "Ночной патруль",
+            "id": "64",
+            "place": 9,
+            "time": "02:06:47"
+        },
+        {
+            "name": "CHUFUT",
+            "id": "6",
+            "place": 10,
+            "time": "02:09:10"
+        },
+        {
+            "name": "jamakasi",
+            "id": "49",
+            "place": 11,
+            "time": "02:09:18"
+        },
+        {
+            "name": "спИРТ-ТВ",
+            "id": "86",
+            "place": 12,
+            "time": "02:13:11"
+        },
+        {
+            "name": "Не пеСЦЫ ф кАмпот",
+            "id": "21",
+            "place": 13,
+            "time": "02:13:38"
+        },
+        {
+            "name": "GOPSTOP",
+            "id": "110",
+            "place": 14,
+            "time": "02:13:57"
+        },
+        {
+            "name": "Yaho-o-o!",
+            "id": "61",
+            "place": 15,
+            "time": "02:14:14"
+        },
+        {
+            "name": "BadBoys",
+            "id": "80",
+            "place": 16,
+            "time": "02:17:12"
+        },
+        {
+            "name": "Адреналин",
+            "id": "127",
+            "place": 17,
+            "time": "02:19:12"
+        },
+        {
+            "name": "ДесертСырковый",
+            "id": "130",
+            "place": 18,
+            "time": "02:22:02"
+        },
+        {
+            "name": "Томб RайдerZZ",
+            "id": "106",
+            "place": 19,
+            "time": "02:22:26"
+        },
+        {
+            "name": "™ГаРа}I{ні моНстРи™",
+            "id": "102",
+            "place": 20,
+            "time": "02:28:00"
+        },
+        {
+            "name": "DegroidS",
+            "id": "40",
+            "place": 21,
+            "time": "02:31:40"
+        },
+        {
+            "name": "FightClub",
+            "id": "114",
+            "place": 22,
+            "time": "02:31:41"
+        },
+        {
+            "name": "passatь",
+            "id": "121",
+            "place": 23,
+            "time": "02:45:35"
+        },
+        {
+            "name": "NAkobileNE_TUPIM",
+            "id": "99",
+            "place": 24,
+            "time": "02:49:30"
+        },
+        {
+            "name": "Man in Black",
+            "id": "117",
+            "place": 25,
+            "time": "02:50:37"
+        },
+        {
+            "name": "Livescore",
+            "id": "91",
+            "place": 26,
+            "time": "02:53:50"
+        },
+        {
+            "name": "SkajenyjSens",
+            "id": "89",
+            "place": 27,
+            "time": "02:54:04"
+        },
+        {
+            "name": "Demergi intelligence",
+            "id": "103",
+            "place": 28,
+            "time": "02:56:03"
+        },
+        {
+            "name": "CROPP_town",
+            "id": "139",
+            "place": 29,
+            "time": "02:58:52"
+        },
+        {
+            "name": "IMPERIAL",
+            "id": "138",
+            "place": 30,
+            "time": "02:59:36"
+        },
+        {
+            "name": "[Іzbywatina]",
+            "id": "72",
+            "place": 31,
+            "time": "03:42:39"
+        },
+        {
+            "name": "КАлина",
+            "id": "116",
+            "place": 32,
+            "time": "03:58:45"
+        },
+        {
+            "name": "Spies",
+            "id": "128",
+            "place": 33,
+            "time": "04:19:53"
+        }
+    ]
+}

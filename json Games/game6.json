@@ -1,0 +1,127 @@
+{
+    "id": 6,
+    "name": "Чебурашки встречают весну (Лайт)",
+    "type": "lite",
+    "teams": [
+        {
+            "name": "ФАРТ",
+            "id": "46",
+            "place": 1,
+            "time": "02:54:17"
+        },
+        {
+            "name": "мину$",
+            "id": "26",
+            "place": 2,
+            "time": "02:55:57"
+        },
+        {
+            "name": "Бабкен и Друзья",
+            "id": "7",
+            "place": 3,
+            "time": "02:58:41"
+        },
+        {
+            "name": "Yaho-o-o!",
+            "id": "61",
+            "place": 4,
+            "time": "03:05:33"
+        },
+        {
+            "name": "CocktailMolotova",
+            "id": "12",
+            "place": 5,
+            "time": "03:07:05"
+        },
+        {
+            "name": "DIESEL",
+            "id": "2",
+            "place": 6,
+            "time": "03:07:34"
+        },
+        {
+            "name": "Voodoo people",
+            "id": "5",
+            "place": 7,
+            "time": "03:08:17"
+        },
+        {
+            "name": "CHUFUT",
+            "id": "6",
+            "place": 8,
+            "time": "03:10:00"
+        },
+        {
+            "name": "Gorsvet",
+            "id": "35",
+            "place": 9,
+            "time": "03:11:46"
+        },
+        {
+            "name": "Robotroniki",
+            "id": "52",
+            "place": 10,
+            "time": "03:16:52"
+        },
+        {
+            "name": "Ангелы Чарли",
+            "id": "44",
+            "place": 11,
+            "time": "03:23:41"
+        },
+        {
+            "name": "Kahli",
+            "id": "62",
+            "place": 12,
+            "time": "03:27:35"
+        },
+        {
+            "name": "Не пеСЦЫ ф кАмпот",
+            "id": "21",
+            "place": 13,
+            "time": "03:27:50"
+        },
+        {
+            "name": "PRADA",
+            "id": "9",
+            "place": 14,
+            "time": "03:38:26"
+        },
+        {
+            "name": "Pioneri",
+            "id": "56",
+            "place": 15,
+            "time": "03:46:03"
+        },
+        {
+            "name": "SaloEdy",
+            "id": "30",
+            "place": 16,
+            "time": "03:51:25"
+        },
+        {
+            "name": "jamakasi",
+            "id": "49",
+            "place": 17,
+            "time": "03:53:49"
+        },
+        {
+            "name": "Crazy Pepelaz",
+            "id": "54",
+            "place": 18,
+            "time": "05:28:01"
+        },
+        {
+            "name": "Alkashi",
+            "id": "22",
+            "place": 19,
+            "time": "08:01:40"
+        },
+        {
+            "name": "Синяки",
+            "id": "63",
+            "place": 20,
+            "time": "08:54:54"
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "id": 5,
+    "name": "Параллельный мир (Лайт)",
+    "type": "lite",
+    "teams": [
+        {
+            "name": "Не пеСЦЫ ф кАмпот",
+            "id": "21",
+            "place": 1,
+            "time": "02:57:08"
+        },
+        {
+            "name": "мину$",
+            "id": "26",
+            "place": 2,
+            "time": "03:06:45"
+        },
+        {
+            "name": "ФАРТ",
+            "id": "46",
+            "place": 3,
+            "time": "03:11:07"
+        },
+        {
+            "name": "PRADA",
+            "id": "9",
+            "place": 4,
+            "time": "03:17:49"
+        },
+        {
+            "name": "SaloEdy",
+            "id": "30",
+            "place": 5,
+            "time": "03:56:47"
+        },
+        {
+            "name": "CHUFUT",
+            "id": "6",
+            "place": 6,
+            "time": "03:58:26"
+        },
+        {
+            "name": "Gorsvet",
+            "id": "35",
+            "place": 7,
+            "time": "04:01:15"
+        },
+        {
+            "name": "K.L.F.",
+            "id": "4",
+            "place": 8,
+            "time": "04:01:26"
+        },
+        {
+            "name": "Инакомыслящие",
+            "id": "55",
+            "place": 9,
+            "time": "04:02:57"
+        },
+        {
+            "name": "Бабкен и Друзья",
+            "id": "7",
+            "place": 10,
+            "time": "04:09:45"
+        },
+        {
+            "name": "CocktailMolotova",
+            "id": "12",
+            "place": 11,
+            "time": "04:12:23"
+        },
+        {
+            "name": "jamakasi",
+            "id": "49",
+            "place": 12,
+            "time": "04:15:47"
+        },
+        {
+            "name": "Robotroniki",
+            "id": "52",
+            "place": 13,
+            "time": "04:25:15"
+        },
+        {
+            "name": "SilverBullet",
+            "id": "48",
+            "place": 14,
+            "time": "04:25:27"
+        },
+        {
+            "name": "Ангелы Чарли",
+            "id": "44",
+            "place": 15,
+            "time": "04:28:33"
+        },
+        {
+            "name": "Hu4ToЖecTBo",
+            "id": "53",
+            "place": 16,
+            "time": "04:42:31"
+        },
+        {
+            "name": "DIESEL",
+            "id": "2",
+            "place": 17,
+            "time": "04:45:38"
+        },
+        {
+            "name": "DegroidS",
+            "id": "40",
+            "place": 18,
+            "time": "06:10:45"
+        },
+        {
+            "name": "Pioneri",
+            "id": "56",
+            "place": 19,
+            "time": "06:18:46"
+        },
+        {
+            "name": "Alive",
+            "id": "43",
+            "place": 20,
+            "time": "08:06:27"
+        }
+    ]
+}

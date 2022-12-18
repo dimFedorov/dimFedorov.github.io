@@ -1,0 +1,121 @@
+{
+    "id": 3,
+    "name": "Новые приключения Остапа Бендера (Лайт)",
+    "type": "lite",
+    "teams": [
+        {
+            "name": "CocktailMolotova",
+            "id": "12",
+            "place": 1,
+            "time": "02:07:18"
+        },
+        {
+            "name": "Не пеСЦЫ ф кАмпот",
+            "id": "21",
+            "place": 2,
+            "time": "02:46:32"
+        },
+        {
+            "name": "мину$",
+            "id": "26",
+            "place": 3,
+            "time": "02:53:42"
+        },
+        {
+            "name": "DIESEL",
+            "id": "2",
+            "place": 4,
+            "time": "02:56:33"
+        },
+        {
+            "name": "SaloEdy",
+            "id": "30",
+            "place": 5,
+            "time": "03:03:09"
+        },
+        {
+            "name": "PRADA",
+            "id": "9",
+            "place": 6,
+            "time": "03:03:21"
+        },
+        {
+            "name": "Voodoo people",
+            "id": "5",
+            "place": 7,
+            "time": "03:18:13"
+        },
+        {
+            "name": "Gorsvet",
+            "id": "35",
+            "place": 8,
+            "time": "03:23:16"
+        },
+        {
+            "name": "Скажені КабанчеГи",
+            "id": "4",
+            "place": 9,
+            "time": "03:26:23"
+        },
+        {
+            "name": "CHUFUT",
+            "id": "6",
+            "place": 10,
+            "time": "03:26:40"
+        },
+        {
+            "name": "Kolo",
+            "id": "37",
+            "place": 11,
+            "time": "03:49:07"
+        },
+        {
+            "name": "Аферисты",
+            "id": "39",
+            "place": 12,
+            "time": "04:20:14"
+        },
+        {
+            "name": "O_dva motors",
+            "id": "34",
+            "place": 13,
+            "time": "04:20:29"
+        },
+        {
+            "name": "Babken&Friends",
+            "id": "7",
+            "place": 14,
+            "time": "04:21:43"
+        },
+        {
+            "name": "DegroidS",
+            "id": "40",
+            "place": 15,
+            "time": "04:36:25"
+        },
+        {
+            "name": "AvtoPilot",
+            "id": "29",
+            "place": 16,
+            "time": "04:43:57"
+        },
+        {
+            "name": "FieSTa",
+            "id": "36",
+            "place": 17,
+            "time": "05:24:26"
+        },
+        {
+            "name": "R.E.M.",
+            "id": "28",
+            "place": 18,
+            "time": "06:02:06"
+        },
+        {
+            "name": "Пятерочка",
+            "id": "33",
+            "place": 19,
+            "time": "06:17:34"
+        }
+    ]
+}

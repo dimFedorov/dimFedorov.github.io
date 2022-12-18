@@ -1,0 +1,31 @@
+{
+    "id": 166,
+    "name": "Загадки Mr.Freeman-а (Формат игры \"Светлый\") (Лайт)",
+    "type": "lite",
+    "teams": [
+        {
+            "name": "3T ( TT feat TdF)",
+            "id": "679",
+            "place": 1,
+            "time": "06:05:03"
+        },
+        {
+            "name": "x_kiss_it",
+            "id": "680",
+            "place": 2,
+            "time": "07:07:37"
+        },
+        {
+            "name": "DIESEL",
+            "id": "2",
+            "place": 3,
+            "time": "07:30:12"
+        },
+        {
+            "name": "CROPP_town",
+            "id": "139",
+            "place": 4,
+            "time": "08:06:14"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "id": 52,
+    "name": "Мания Азарта (Лайт)",
+    "type": "lite",
+    "teams": [
+        {
+            "name": "Ночной патруль",
+            "id": "64",
+            "place": 1,
+            "time": "02:55:47"
+        },
+        {
+            "name": "Night Wolfs & Saloedu",
+            "id": "178",
+            "place": 2,
+            "time": "03:14:54"
+        },
+        {
+            "name": "мину$",
+            "id": "26",
+            "place": 3,
+            "time": "03:28:24"
+        },
+        {
+            "name": "jamakasi",
+            "id": "49",
+            "place": 4,
+            "time": "03:29:41"
+        },
+        {
+            "name": "CROPP_town",
+            "id": "139",
+            "place": 5,
+            "time": "03:51:54"
+        },
+        {
+            "name": "Адреналин",
+            "id": "127",
+            "place": 6,
+            "time": "03:56:08"
+        },
+        {
+            "name": "PGS",
+            "id": "194",
+            "place": 7,
+            "time": "04:14:02"
+        },
+        {
+            "name": "Yaho-o-o!",
+            "id": "61",
+            "place": 8,
+            "time": "04:14:48"
+        },
+        {
+            "name": "Пилигримы",
+            "id": "119",
+            "place": 9,
+            "time": "04:31:28"
+        },
+        {
+            "name": "Gorsvet",
+            "id": "35",
+            "place": 10,
+            "time": "04:32:21"
+        },
+        {
+            "name": "CrazyLife",
+            "id": "79",
+            "place": 11,
+            "time": "04:49:40"
+        },
+        {
+            "name": "Voodoo people",
+            "id": "5",
+            "place": 12,
+            "time": "04:49:47"
+        },
+        {
+            "name": "SkajenyjSens",
+            "id": "89",
+            "place": 13,
+            "time": "04:50:04"
+        }
+    ]
+}

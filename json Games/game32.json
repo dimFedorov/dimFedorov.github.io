@@ -1,0 +1,133 @@
+{
+    "id": 32,
+    "name": "В гостях у сказки (Лига Светлых) (Лайт)",
+    "type": "lite",
+    "teams": [
+        {
+            "name": "Не пеСЦЫ ф кАмпот",
+            "id": "21",
+            "place": 1,
+            "time": "03:27:49"
+        },
+        {
+            "name": "Пипелацы",
+            "id": "115",
+            "place": 2,
+            "time": "03:35:47"
+        },
+        {
+            "name": "Yaho-o-o!",
+            "id": "61",
+            "place": 3,
+            "time": "03:59:46"
+        },
+        {
+            "name": "мину$",
+            "id": "26",
+            "place": 4,
+            "time": "04:20:22"
+        },
+        {
+            "name": "CHUFUT",
+            "id": "6",
+            "place": 5,
+            "time": "04:21:09"
+        },
+        {
+            "name": "Voodoo people",
+            "id": "5",
+            "place": 6,
+            "time": "04:22:53"
+        },
+        {
+            "name": "CrazyLife",
+            "id": "79",
+            "place": 7,
+            "time": "04:47:03"
+        },
+        {
+            "name": "DegroidS",
+            "id": "40",
+            "place": 8,
+            "time": "04:48:37"
+        },
+        {
+            "name": "CROPP_town",
+            "id": "139",
+            "place": 9,
+            "time": "04:56:04"
+        },
+        {
+            "name": "Бабкен и Друзья",
+            "id": "7",
+            "place": 10,
+            "time": "05:01:42"
+        },
+        {
+            "name": "BadBoys",
+            "id": "80",
+            "place": 11,
+            "time": "05:03:56"
+        },
+        {
+            "name": "passatь",
+            "id": "121",
+            "place": 12,
+            "time": "05:17:57"
+        },
+        {
+            "name": "[email protected]",
+            "id": "161",
+            "place": 13,
+            "time": "05:22:40"
+        },
+        {
+            "name": "DIESEL",
+            "id": "2",
+            "place": 14,
+            "time": "05:34:48"
+        },
+        {
+            "name": "Реальные Кабаны",
+            "id": "107",
+            "place": 15,
+            "time": "06:42:01"
+        },
+        {
+            "name": "МамаЭтоЯ",
+            "id": "120",
+            "place": 16,
+            "time": "06:56:00"
+        },
+        {
+            "name": "IMPERIAL",
+            "id": "138",
+            "place": 17,
+            "time": "06:57:33"
+        },
+        {
+            "name": "jimomo",
+            "id": "144",
+            "place": 18,
+            "time": "07:14:42"
+        },
+        {
+            "name": "Livescore",
+            "id": "91",
+            "place": 19,
+            "time": "07:23:20"
+        },
+        {
+            "name": "Ёжики в тумане",
+            "id": "88",
+            "place": 20,
+            "time": "07:42:57"
+        },
+        {
+            "name": "Spies",
+            "id": "128",
+            "place": 21,
+            "time": "08:13:08"
+        }
+    ]
+}

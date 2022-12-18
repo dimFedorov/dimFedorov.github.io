@@ -1,0 +1,235 @@
+{
+    "id": 11,
+    "name": "Штирлиц. Мгновения весны. (Лайт)",
+    "type": "lite",
+    "teams": [
+        {
+            "name": "Бабкен и Друзья",
+            "id": "7",
+            "place": 1,
+            "time": "02:53:54"
+        },
+        {
+            "name": "мину$",
+            "id": "26",
+            "place": 2,
+            "time": "02:57:19"
+        },
+        {
+            "name": "Voodoo people",
+            "id": "5",
+            "place": 3,
+            "time": "02:59:27"
+        },
+        {
+            "name": "PRADA",
+            "id": "9",
+            "place": 4,
+            "time": "03:01:21"
+        },
+        {
+            "name": "CHUFUT",
+            "id": "6",
+            "place": 5,
+            "time": "03:03:19"
+        },
+        {
+            "name": "Не пеСЦЫ ф кАмпот",
+            "id": "21",
+            "place": 6,
+            "time": "03:07:15"
+        },
+        {
+            "name": "Pioneri",
+            "id": "56",
+            "place": 7,
+            "time": "03:09:58"
+        },
+        {
+            "name": "DIESEL",
+            "id": "2",
+            "place": 8,
+            "time": "03:10:14"
+        },
+        {
+            "name": "BugenGagen",
+            "id": "74",
+            "place": 9,
+            "time": "03:13:06"
+        },
+        {
+            "name": "DegroidS",
+            "id": "40",
+            "place": 10,
+            "time": "03:40:05"
+        },
+        {
+            "name": "CrazyLife",
+            "id": "79",
+            "place": 11,
+            "time": "03:42:21"
+        },
+        {
+            "name": "Robotroniki",
+            "id": "52",
+            "place": 12,
+            "time": "03:43:09"
+        },
+        {
+            "name": "Ночной патруль",
+            "id": "64",
+            "place": 13,
+            "time": "03:47:07"
+        },
+        {
+            "name": "Gorsvet",
+            "id": "35",
+            "place": 14,
+            "time": "03:47:46"
+        },
+        {
+            "name": "}{OTTAБЬ)Ч",
+            "id": "87",
+            "place": 15,
+            "time": "03:49:55"
+        },
+        {
+            "name": "SaloEdy",
+            "id": "30",
+            "place": 16,
+            "time": "03:54:05"
+        },
+        {
+            "name": "спИРТ-ТВ",
+            "id": "86",
+            "place": 17,
+            "time": "04:03:20"
+        },
+        {
+            "name": "MoRa @",
+            "id": "93",
+            "place": 18,
+            "time": "04:03:22"
+        },
+        {
+            "name": "Crazy Pepelaz",
+            "id": "54",
+            "place": 19,
+            "time": "04:07:44"
+        },
+        {
+            "name": "SkajenyjSens",
+            "id": "89",
+            "place": 20,
+            "time": "04:09:12"
+        },
+        {
+            "name": "BadBoys",
+            "id": "80",
+            "place": 21,
+            "time": "04:11:18"
+        },
+        {
+            "name": "GotNoBrain",
+            "id": "81",
+            "place": 22,
+            "time": "04:13:41"
+        },
+        {
+            "name": "NAkobileNE_TUPIM",
+            "id": "99",
+            "place": 23,
+            "time": "04:14:20"
+        },
+        {
+            "name": "Night Wolfs",
+            "id": "84",
+            "place": 24,
+            "time": "04:15:47"
+        },
+        {
+            "name": "Служба Розыска КОтяД",
+            "id": "82",
+            "place": 25,
+            "time": "04:15:55"
+        },
+        {
+            "name": "[Іzbywatina]",
+            "id": "72",
+            "place": 26,
+            "time": "04:25:59"
+        },
+        {
+            "name": "HotWheels",
+            "id": "96",
+            "place": 27,
+            "time": "04:32:37"
+        },
+        {
+            "name": "Ангелы Чарли",
+            "id": "44",
+            "place": 28,
+            "time": "04:32:52"
+        },
+        {
+            "name": "Ёжики в тумане",
+            "id": "88",
+            "place": 29,
+            "time": "04:34:21"
+        },
+        {
+            "name": "™ГаРа}I{ні моНстРи™",
+            "id": "102",
+            "place": 30,
+            "time": "04:38:21"
+        },
+        {
+            "name": "ПеППеRS",
+            "id": "85",
+            "place": 31,
+            "time": "04:51:26"
+        },
+        {
+            "name": "Джигиты",
+            "id": "98",
+            "place": 32,
+            "time": "04:59:22"
+        },
+        {
+            "name": "Livescore",
+            "id": "91",
+            "place": 33,
+            "time": "05:23:22"
+        },
+        {
+            "name": "Инакомыслящие",
+            "id": "55",
+            "place": 34,
+            "time": "05:28:39"
+        },
+        {
+            "name": "Yaho-o-o!",
+            "id": "61",
+            "place": 35,
+            "time": "05:50:36"
+        },
+        {
+            "name": "Kolo",
+            "id": "37",
+            "place": 36,
+            "time": "06:04:45"
+        },
+        {
+            "name": "Demergi intelligence",
+            "id": "103",
+            "place": 37,
+            "time": "06:06:49"
+        },
+        {
+            "name": "Dead pigeon",
+            "id": "42",
+            "place": 38,
+            "time": "06:30:00"
+        }
+    ]
+}
